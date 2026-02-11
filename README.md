@@ -3,7 +3,7 @@
 <p align="left">
 Currently in my 5th semester of <b>Computer Science</b> at IFSP (São João da Boa Vista Campus).
 <br><br>
-With a solid background in <b>automation and mechatronics</b>, I am channeling my logical expertise into software development. My current focus is bridging programming (Java/C) with process automation (n8n) and database management. I also hold an international English certification (Michigan/FISK), enabling me to engage with global content and collaborate on international projects.
+With a solid background in <b>automation and mechatronics</b>, I am channeling my logical expertise into software development. My current focus is bridging programming (Java/C) with process automation (n8n) and database management. I also hold an international English certification (Michigan Language Assessment), enabling me to engage with global content and collaborate on international projects.
 </p>
 
 ---
@@ -13,7 +13,7 @@ With a solid background in <b>automation and mechatronics</b>, I am channeling m
 - 🤖 Technical Background in **Mechatronics** & Automation
 - 💻 Focusing on **Java**, **React**, **C**, and API Integration (**n8n**)
 - ☕ Solid Java foundation
-- 🇺🇸 Fluent English (**Michigan English Test Certificate**)
+- 🇺🇸 Fluent English (**Michigan English Test Certificate** - Michigan Language Assessment, University of Michigan)
 - 🚀 Seeking opportunities in **Full-Stack development** & **Processing Automation**
 
 ---
