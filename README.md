@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Caio Canalli!
 
 <p align="left">
-Currently in my 5th semester of <b>Computer Science</b> at IFSP (São João da Boa Vista Campus).
+Currently in my 6th semester of <b>Computer Science</b> at IFSP (São João da Boa Vista Campus).
 <br><br>
 With a solid background in <b>automation and mechatronics</b>, I am channeling my logical expertise into software development. My current focus is bridging programming (Java/C) with process automation (n8n) and database management. I also hold an international English certification (Michigan Language Assessment), enabling me to engage with global content and collaborate on international projects.
 </p>
