@@ -9,7 +9,7 @@ With a solid background in <b>automation and mechatronics</b>, I am channeling m
 ---
 
 ## 🌟 About Me
-- 🎓 Computer Science Student at **IFSP** (5th Semester)
+- 🎓 Computer Science Student at **IFSP** (6th Semester)
 - 🤖 Technical Background in **Mechatronics** & Automation
 - 💻 Focusing on **Java**, **React**, **C**, and API Integration (**n8n**)
 - ☕ Solid Java foundation
