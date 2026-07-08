@@ -3,8 +3,11 @@
 <p align="left">
 Currently in my 6th semester of <b>Computer Science</b> at IFSP (São João da Boa Vista Campus).
 <br><br>
-With a solid background in <b>automation and mechatronics</b>, I am channeling my logical expertise into software development. My current focus is bridging programming (Java/C) with process automation (n8n) and database management. I also hold an international English certification (Michigan Language Assessment), enabling me to engage with global content and collaborate on international projects.
-</p>
+Computer Science student at IFSP with a strong focus on evolving into a Full Stack Developer. Building upon a solid foundation in algorithmic problem-solving and robust technologies like Java and C, my primary goal is creating efficient, high-performance applications.
+
+With a background that spans a CNPq scientific research fellowship and formal training in Mechatronics, I bring a highly analytical, data-driven perspective to software architecture. Beyond core programming, I leverage tools like n8n for process automation, integrate complex APIs, and apply NLP concepts to build smarter applications.
+
+Backed by an international English certification (Michigan Language Assessment), I am fully equipped to collaborate within global, agile teams and eager to contribute to scalable, innovative software solutions as I transition into the industry.</p>
 
 ---
 
