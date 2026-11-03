@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://caiocanalli.com.br">
-    <img src="https://img.shields.io/badge/Portfolio-caiocanalli.com.br-0A0A0A?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/caio-canalli-8a7161324/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
