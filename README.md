@@ -19,17 +19,6 @@ Backed by an international English certification (Michigan Language Assessment),
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img align="center" alt="Caio's Stats" src="https://github-readme-stats.vercel.app/api?username=caiocanalli12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img align="center" alt="Caio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocanalli12&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" />
-</div>
-
-<br>
-
----
-
 ## 💡 Technologies
 
 ### 💻 Languages & Frameworks
